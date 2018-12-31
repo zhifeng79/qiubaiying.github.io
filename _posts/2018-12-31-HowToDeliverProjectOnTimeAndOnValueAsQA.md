@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      How to delivering project on time and on value, as QA 
+title:      How To Delivering Project On Time and On Value, as QA 
 subtitle:   Tips and Strategies fro Better,Faster Testing 
 date:       2018-12-31
 author:     zhifeng.jiang
