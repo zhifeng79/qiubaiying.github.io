@@ -1,40 +1,33 @@
 ---
 layout:     post
-title:      柔术最大的谎言「译」
-subtitle:   辩证分析柔术中技术与力量
-date:       2018-01-04
-author:     BY
+title:      How to delivering project on time and on value, as QA 
+subtitle:   Tips and Strategies fro Better,Faster Testing 
+date:       2018-12-31
+author:     zhifeng.jiang
 header-img: img/post-bg-BJJ.jpg
 catalog: true
 tags:
-    - BJJ
+    - QA
+    - Testing
 ---
 
-> 译自 [《THE BIGGEST LIE IN JIU JITSU》](http://www.jiujitsubrotherhood.com/the-biggest-lie-in-jiu-jitsu/)
+> 参考  [《》](http:///)
 
-
-![Marcus'Buchecha'Almeida - 现任IBJJF绝对冠军。这家伙很坚强，相信我！图片由BJJ Pix的William Burkhardt提供  。](http://mjrnxewya3t1in23ybpwjw59.wpengine.netdna-cdn.com/wp-content/uploads/buchecha-marcus-almeida-roger-gracie.jpg)
-
-
-最近我看到了一个让我捧腹的柔术笑话。
-
-“柔术的技术是无敌的！”
-
-你可能不想听听下面的内容，但是作为一名柔术教练，我的工作是与你分享我认为的真理，而不是虚假的谎言。所以在这里与你们分享我的见解：
 
 ### 目录
 
-- 技术不是无敌的
-- 我的见解
-- 一个假设
-- 真实的例子
-- 这个神话是从哪里来的？
-- 好消息
-- 如何变得更强
-- 你该怎么做
+- 测试团队职责
+- 如何完成职责
+- What is Early Testing
+- How to Test often
+- 测试架构师职责
+- 测试设计
+- 版本质量评估
+- 测试闭环
+- 请心情愉快
 
 
-## 技术不是无敌的
+## 测试团队职责
 
 基础运动能力，特别是力量，对柔术的表现起着巨大的作用，而且往往可以克服技巧。尽管你被告知了卓越的技术并不总是能克服体型和力量优势。但在我看来，力量和技术一样重要。
 
