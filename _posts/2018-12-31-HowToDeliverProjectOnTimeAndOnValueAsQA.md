@@ -1,9 +1,9 @@
 ---
-layout:     keynote
-iframe:     "http://huangxuan.me/js-module-7day/"
+layout:     post
 title:      How To Delivering Project On Time and On Value, as QA 
 subtitle:   Tips and Strategies fro Better,Faster Testing 
 date:       2018-12-31
+title:      How To Delivering Project On Time and On Value, as QA 
 author:     zhifeng.jiang
 header-img: img/post-bg-BJJ.jpg
 catalog: true

@@ -4,7 +4,7 @@ SEOTitle: 志峰的博客 | Zhifeng Blog
 header-img: img/post-bg-desk.jpg
 email: zhifeng.jiang79@gmail.com
 description: "No matter how slow, just keep going."
-keyword: "BY, BY Blog, 志峰的博客, zhifeng.jian, 姜志峰, iOS, Apple, iPhone"
+keyword: "志峰的博客, zhifeng.jian, 姜志峰, iOS, Apple, iPhone"
 url: "http://zhifeng79.github.io"          # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/zhifeng79/zhifeng79.github.io.git" # you code repository

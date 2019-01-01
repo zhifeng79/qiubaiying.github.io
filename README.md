@@ -1,10 +1,11 @@
-# BY Blog
+#zhifeng jiang 
 
 > 下面是博客的搭建教程，这个教程修改自 [Hux](https://github.com/Huxpro/huxpro.github.io) 。
 > 
 > 更为详细的教程[《利用 GitHub Pages 快速搭建个人博客》](http://www.jianshu.com/p/e68fba58f75c) 
-> 
-### [我的博客在这里 &rarr;](http://qiubaiying.github.io)
+>
+> 博客是克隆的BY的博客框架[BY的博客](http://qiubaiying.github.io) 
+### [我的博客在这里 &rarr;](http://zhifeng.github.io)
 
 ![](https://raw.githubusercontent.com/qiubaiying/qiubaiying.github.io/master/img/readme-home.png)
 
@@ -33,7 +34,20 @@
 
 ### 环境
 
-如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。
+如果你安装了 [jekyll](http://jekyllcn.com/)，那你只需要在命令行输入`jekyll serve` 或 `jekyll s`就能在本地浏览器中输入`http://127.0.0.1:4000/`预览主题，对主题的修改也能实时展示（需要强刷浏览器）。在mac上安装jekyllcn时候，需要先修改下gem的源到国内源https://gems.ruby-china.com/,命令如下
+    gem sources -r http://rubygems.org/
+    gem sources -r https://rubygems.org/
+    gem sources -a https://gems.ruby-china.com/
+    gem update
+    gem install --user-install bundler jekyll
+
+安装时候如果提示ruby的版本太低，需要安装ruby的新版本
+    /usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"
+    brew install ruby
+
+安装后如果系统无法自动识别jekyll命令，输入如下命令
+    export PATH="/usr/local/opt/ruby/bin:/usr/local/lib/ruby/gems/2.6.0/bin:$PATH"
+
 
 
 
@@ -170,7 +184,7 @@ iframe:     "http://huangxuan.me/js-module-7day/"
 ```
 
 iframe在不同的设备中，将会自动的调整大小。保留内边距是为了让手机用户可以向下滑动，以及添加更多的内容。
-
+HTML5幻灯片排版的HTML用Reveal.js和jekyll的结合可以方便的生成。我参考[Create Slides with reveal.js](http://luugiathuy.com/2015/04/jekyll-create-slides-with-revealjs/)搭建的。
 
 ### Comment
 
