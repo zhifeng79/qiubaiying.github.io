@@ -64,6 +64,16 @@ tags:
 - 如何评价测试的效果
   dashboard显示结果，信息可公开透明，可追溯； 产品导览指导众测和用户体验测试
 
+### 四步测试策略制定法
+- 明确产品质量目标
+- 进行风险分析
+- 适配产品发开发流程
+- 测试分层
+
+### 领域知识
+![领域知识](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/DomainKnowledge.jpg)
+
+
 ### 了解产品的商业目标
 
 - 产品亮点
@@ -162,6 +172,14 @@ tags:
 - Test with small dataset
 - Test with large dateset
 
+### 探索性测试方法
+![产品特性分区](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/exploreTest.jpg)
+![历史区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/historyAreaTest.jpg)
+![商业区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/BussinessArea.jpg)
+![娱乐区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/entertainmentArea.jpg)
+![破旧区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/problemArea.jpg)
+
+
 ### 手机APP测试框架选型
 - App云测试服务
 
@@ -203,6 +221,9 @@ tags:
 ## How AI will change the Tester
 - AppDiff, a company that uses AI to test mobile apps.
 - https://www.slideshare.net/practitest/testing-and-ai
+
+## 知识曲线
+![知识学习曲线](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/LearnLine.jpg)
 
 
 
