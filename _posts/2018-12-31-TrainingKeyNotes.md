@@ -274,11 +274,15 @@ transition: slide
 - https://www.slideshare.net/practitest/testing-and-ai
 </section>
 
+<section data-markdown>
+## 测试闭环AI版本
+![测试闭环AI版本](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/test_circle_ai.png)  
+</section>
 
-
-
-
-
+<section data-markdown>
+ ### 测试AI从哪里学习
+![测试AI从哪里学习](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/Test_Ai_Learn_from.png)  
+</section>
 
 
 
