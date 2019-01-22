@@ -59,6 +59,18 @@ transition: slide
 </section>
 
 <section data-markdown>
+###测试对象和范围
+- 产品做什么的
+- 产品外部接口
+- 产品什么组成
+- 产品处理什么数据
+- 产品怎么被使用
+- 产品依赖的东西
+- 产品和时间的相关方面
+- XX性需求的要求
+</section>
+
+<section data-markdown>
 ### 四步测试策略制定法
 - 明确产品质量目标
 - 进行风险分析
