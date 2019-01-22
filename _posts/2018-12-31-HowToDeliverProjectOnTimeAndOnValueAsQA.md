@@ -12,9 +12,9 @@ tags:
     - Testing
 ---
 
-> 参考  [《测试架构师修炼之道》](http://yuedu.163.com/book_reader/3d5f4dc163604ce48392b97430de6ed9_4)
+> 参考  [《测试架构师修炼之道》](http://yuedu.163.com/book_reader/3d5f4dc163604ce48392b97430de6ed9_4) 
 
-> 参考 [《MFQ&PPDCS》] (http://hejiajie.cn/wp-content/uploads/2013/05/MFQPPDCS.pdf)
+> 参考 [《MFQ&PPDCS》] (http://hejiajie.cn/wp-content/uploads/2013/05/MFQPPDCS.pdf) 
 
 > 参考 《Google 软件测试之道》
 
