@@ -59,6 +59,19 @@ transition: slide
 </section>
 
 <section data-markdown>
+### 四步测试策略制定法
+- 明确产品质量目标
+- 进行风险分析
+- 适配产品发开发流程
+- 测试分层
+</section>
+
+<section data-markdown>
+ ### 领域知识
+![领域知识](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/DomainKnowledge.jpg)
+</section>
+
+<section data-markdown>
 ### 了解产品的商业目标
 - 产品亮点
 - 产品竞争力
@@ -178,6 +191,31 @@ transition: slide
 - Is it theoretically correct?
 - Test with small dataset
 - Test with large dateset
+</section>
+
+<section data-markdown>
+### 探索性测试方法 
+![产品特性分区](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/exploreTest.jpg)
+</section>
+
+<section data-markdown>
+### 历史区测试法
+![历史区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/historyAreaTest.jpg)
+</section>
+
+<section data-markdown>
+### 商业区测试法
+![商业区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/BussinessArea.jpg)
+</section>
+
+<section data-markdown>
+### 娱乐区测试法
+![娱乐区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/entertainmentArea.jpg)
+</section>
+
+<section data-markdown>
+### 破旧区测试法
+![破旧区测试法](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/problemArea.jpg)
 </section>
 
 <section data-markdown>
