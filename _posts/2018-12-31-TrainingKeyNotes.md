@@ -47,6 +47,11 @@ transition: slide
 </section>
 
 <section data-markdown>
+ ### 领域知识
+![领域知识](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/DomainKnowledge.jpg)
+</section>
+
+<section data-markdown>
 ## 正确制定测试策略
   Automation is good, but is doesnt fix poor test design
 - 测试对象和范围是什么
@@ -76,11 +81,6 @@ transition: slide
 - 进行风险分析
 - 适配产品发开发流程
 - 测试分层
-</section>
-
-<section data-markdown>
- ### 领域知识
-![领域知识](https://raw.githubusercontent.com/zhifeng79/zhifeng79.github.io/master/img/DomainKnowledge.jpg)
 </section>
 
 <section data-markdown>
