@@ -5,6 +5,9 @@ description: A presentation slide for QA
 theme: black
 transition: slide
 ---
+<section data-markdown>
+# How To Delivering Project On Time and On Value, as QA
+</section>
 
 <section data-markdown>
 # 目录
@@ -81,6 +84,20 @@ transition: slide
 - 进行风险分析
 - 适配产品发开发流程
 - 测试分层
+</section>
+
+<section data-markdown>
+ ### 产品质量目标
+ - 完全商用
+ - 受限商用
+ - 测试，演示用
+</section>
+
+<section data-markdown>
+ ### 风险清单
+ - 技术
+ - 设备
+ - 人力
 </section>
 
 <section data-markdown>
